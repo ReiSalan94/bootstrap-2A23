@@ -4,9 +4,10 @@ body{
 header{
     margin: 2vh auto;
 }
-header,nav,main,{
+header,nav,main,.row div{
     background-color: #fff;
     min-height: 10vh;
+    margin: 2vh;
 }
 nav,main{
     min-height: 82vh;
